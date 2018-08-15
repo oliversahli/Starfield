@@ -1,14 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starfield", "Assembly-CSharp-Editor.csproj", "{24F0F1C8-89CD-E3B6-607C-770899007C2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starfield", "Assembly-CSharp.csproj", "{4A1DE352-1145-EB4C-65C4-B308ECDB93CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{24F0F1C8-89CD-E3B6-607C-770899007C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F0F1C8-89CD-E3B6-607C-770899007C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F0F1C8-89CD-E3B6-607C-770899007C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F0F1C8-89CD-E3B6-607C-770899007C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A1DE352-1145-EB4C-65C4-B308ECDB93CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A1DE352-1145-EB4C-65C4-B308ECDB93CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A1DE352-1145-EB4C-65C4-B308ECDB93CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A1DE352-1145-EB4C-65C4-B308ECDB93CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
